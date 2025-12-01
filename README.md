@@ -6,16 +6,16 @@ Dataset
 =======================
 Data Available -
 Zip folder with 6 subfolders (36954 images)
-  --> FLUX
-  --> MIDJOURNEY
-  --> STABLE-DIFFUSION
-  --> GROK
-  --> SORA
-  --> PIXART
+  * FLUX
+  * MIDJOURNEY
+  * STABLE-DIFFUSION
+  * GROK
+  * SORA
+  * PIXART
 Each folder contains images generated with the corresponding models. Image name corresponds to the prompt used for generation.
   
 File Information 
 =======================
- --> spat-prompts.csv = All prompts used for generation, along with template format and template ID.
- --> new-prompts.csv = Limited prompts used for generation from SORA and PIXART models. 
+ * spat-prompts.csv = All prompts used for generation, along with template format and template ID.
+ * new-prompts.csv = Limited prompts used for generation from SORA and PIXART models. 
 
