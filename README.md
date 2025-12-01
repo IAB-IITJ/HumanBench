@@ -11,7 +11,8 @@ Zip folder with 6 subfolders (36954 images)
   * STABLE-DIFFUSION
   * GROK
   * SORA
-  * PIXART  
+  * PIXART
+    
 Each folder contains images generated with the corresponding models. Image name corresponds to the prompt used for generation.
   
 File Information 
