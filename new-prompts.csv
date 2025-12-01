@@ -1,0 +1,51 @@
+prompts,template,temp_idx
+A person walking.,per-act,t1
+A person sitting.,per-act,t1
+A person standing.,per-act,t1
+A person lying down.,per-act,t1
+A person cycling.,per-act,t1
+A person eating.,per-act,t1
+A person laughing.,per-act,t1
+A person crying.,per-act,t1
+A person playing.,per-act,t1
+A person jumping.,per-act,t1
+A person writing.,per-act,t1
+A girl lying down and a boy walking.,per-act-con-per-act,t2
+A girl lying down and a boy standing.,per-act-con-per-act,t2
+A girl lying down and a boy sitting.,per-act-con-per-act,t2
+A girl lying down and a boy cycling.,per-act-con-per-act,t2
+A girl jumping and a boy crying.,per-act-con-per-act,t2
+A girl jumping and a boy playing.,per-act-con-per-act,t2
+A rubber woman.,text-per,t3
+A plastic woman.,text-per,t3
+A metallic woman.,text-per,t3
+A wooden woman.,text-per,t3
+A fluffy woman.,text-per,t3
+A glass woman.,text-per,t3
+A woman above a bag.,per-spat-obj,t4
+A woman below a bag.,per-spat-obj,t4
+A woman on a bag.,per-spat-obj,t4
+A woman beside a bag.,per-spat-obj,t4
+A woman in a bag.,per-spat-obj,t4
+A woman in front of a bag.,per-spat-obj,t4
+A woman behind a bag.,per-spat-obj,t4
+A woman between bags.,per-spat-obj,t4
+A woman among bags.,per-spat-obj,t4
+A woman around bags.,per-spat-obj,t4
+Three men.,num-per,t6
+Four women.,num-per,t6
+Six boys.,num-per,t6
+Seven girls.,num-per,t6
+Five males.,num-per,t6
+Five females.,num-per,t6
+Five people.,num-per,t6
+Five people jumping.,num-per-act,t7
+Five people writing.,num-per-act,t7
+Five men walking and three women sitting.,num-per-con-num-per-act,t8
+Five females eating and five males lying down.,num-per-con-num-per-act,t8
+Five females eating and five males cycling.,num-per-con-num-per-act,t8
+Five females eating and five males sitting.,num-per-con-num-per-act,t8
+A woman above a rubber table.,per-spat-tex-obj,t5
+A woman below a rubber table.,per-spat-tex-obj,t5
+A woman on a rubber table.,per-spat-tex-obj,t5
+A woman beside a rubber table.,per-spat-tex-obj,t5
